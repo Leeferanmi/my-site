@@ -1,0 +1,30 @@
+html {
+  text-align: center;
+  font-family:  'Poiret One', cursive;
+}
+#header1 { /*This is a comment */
+	color: black;
+	font-family: 'Poiret One', cursive;
+	 font-size: 100px;
+  text-align: center;
+  letter-spacing: 1px;}
+body, p, h2 {
+	font-family: 'Poiret One', cursive;
+	font-size: 40px;
+	font-style: bold;
+	padding: 10px;
+	text-align: center;}
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="images/pic6.jpeg" style="width:100%">
+  <img class="mySlides" src="images/pic7.jpeg" style="width:100%">
+  <img class="mySlides" src="images/pic8.jpeg" style="width:100%">
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>}
+
+
+
+
+
+
